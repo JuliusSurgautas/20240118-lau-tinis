@@ -1,0 +1,42 @@
+body{
+    background-size: 100%;
+    
+    background-repeat: no-repeat;
+    
+    }
+
+    
+
+
+    .naujausios{
+        display: flex;
+       
+        overflow: auto;
+        background-color: #ccc; 
+        border: black;
+      
+      }
+
+
+      
+ .Carizmas{
+  background-color: rgb(163, 144, 144);
+  height: 30px ;
+  text-align: center;
+ }
+
+ .katalog{
+width: 100%;
+background-color: darkgrey;
+ 
+display: inline-flex;
+
+ }
+ .a1{
+  padding-left: 200px;
+ }
+     
+
+
+
+
